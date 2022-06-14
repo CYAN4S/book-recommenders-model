@@ -17,3 +17,7 @@
 - `main.py`: 모델을 불러와 실행하는 `handler` 함수가 있는 Python 파일입니다.
 
 Google Cloud Functions 기능을 통해 실행될 수 있는 구조이며, HTTP 통신으로 `main.py`의 `handler` 함수가 호출되는 형태입니다.
+
+## 참고 사항
+
+<https://github.com/CYAN4S/book-recommenders-model>에서도 보실 수 있습니다.
